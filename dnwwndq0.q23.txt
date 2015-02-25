@@ -1,0 +1,32 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   1.txt.txt
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	2D Toolkit 2.4.0.unitypackage
+#	Assembly-CSharp-Editor-vs.csproj
+#	Assembly-CSharp-Editor.csproj
+#	Assembly-CSharp-firstpass-vs.csproj
+#	Assembly-CSharp-firstpass.csproj
+#	Assembly-CSharp-vs.csproj
+#	Assembly-CSharp.csproj
+#	Assembly-UnityScript-firstpass-vs.unityproj
+#	Assembly-UnityScript-firstpass.unityproj
+#	Assembly-UnityScript-vs.unityproj
+#	Assembly-UnityScript.unityproj
+#	Assets/
+#	Library/
+#	NGUI Next-Gen UIv3.5.8.unitypackage
+#	ProjectSettings/
+#	tanwantongjin-csharp.sln
+#	tanwantongjin.sln
+#	tanwantongjin.userprefs
+#	tanwantongjin/
+
